@@ -1,4 +1,4 @@
 // first dart file
 void main() {
-  Print ('nesto')
+  Print ('bok ljudovi')
 }
